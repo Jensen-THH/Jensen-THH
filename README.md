@@ -14,7 +14,7 @@ I am 🎓 Student  at ITC
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <br />
 <h2>📺 YouTube </h2>
-[ I LOVE RAP ](https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA)
+<a href="https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA">I LOVE RAP</a>
 <br />
 
 ### Recent notes 📝
