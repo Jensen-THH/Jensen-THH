@@ -17,11 +17,10 @@
 ### 📺 YouTube
 [ I LOVE RAP ](https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA)
 <br>
-<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-536-blue) -->
 
 ### Recent notes 📝
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensen-thh&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jensen-thh&show_icons=true&count_private=true&theme=gruvbox)
 
-![](https://komarev.com/ghpvc/?username=jensen-thh&color=brightgreen)
+![view](https://komarev.com/ghpvc/?username=jensen-thh&color=brightgreen)
