@@ -3,8 +3,10 @@
 <h3 align="center">:></h3>
 
 <br />
+<p align="center" >
+🐞 and 🐞🐞🐞🐞
 I am 🎓 Student  at ITC
-
+</p>
 <br>
 <h2>Tool: </h2>
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
