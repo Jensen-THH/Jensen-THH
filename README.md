@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything I learned
-- 📫 How to reach me: [Facebook](fb.com/jensen523)
+- 📫 How to reach me: [Facebook](https://fb.com/jensen523)
 - ⚡ Fun fact:  noop :>
 ### Recent notes 📝
 
