@@ -2,7 +2,7 @@
 <h3 align="center">:></h3>
 
 <br />
-### I am 🎓 Student  at **[ITC](https://itc.edu.vn)**
+### I am 🎓 Student  at [ITC](https://itc.edu.vn)
 
 ✨ _special_ ✨ 
 
