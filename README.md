@@ -8,7 +8,7 @@
 I am 🎓 Student  at ITC
 </p>
 <br>
-<h2>Facebook: <a href="https://fb.com/jensen523">Jensen</a></h2>
+<h2> <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/facebook.svg" style="margin-right:50px" />  Facebook: <a href="https://fb.com/jensen523">Jensen</a></h2>
 <h2>📺 YouTube: <a href="https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA">I LOVE RAP</a> </h2>
 
 <br />
