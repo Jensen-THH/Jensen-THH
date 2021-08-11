@@ -8,10 +8,9 @@
 I am 🎓 Student  at ITC
 </p>
 <br>
-<h2>Facebook: </h2>
-<a href="https://fb.com/jensen523">Jensen</a>
-<h2>📺 YouTube </h2>
-<a href="https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA">I LOVE RAP</a>
+<h2>Facebook: <a href="https://fb.com/jensen523">Jensen</a></h2>
+<h2>📺 YouTube: <a href="https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA">I LOVE RAP</a> </h2>
+
 <br />
 
 ### Recent notes 📝
