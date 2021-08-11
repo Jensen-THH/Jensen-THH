@@ -2,7 +2,7 @@
 <h3 align="center">:></h3>
 
 <br />
-### I am 🎓 Student  at ITC
+### I am 🎓 Student  at [ITC](itc.edu.vn)
 
 ✨ _special_ ✨ 
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jensen-thh&show_icons=true&count_private=true&theme=gruvbox)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensen-thh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensen-thh&layout=compact)
 
 
 
