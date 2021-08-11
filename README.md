@@ -1,10 +1,12 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Jensen-THH</h2>
+<h3 align="center">:></h3>
 
-<!--
-**Jensen-THH/Jensen-THH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+### I am 🎓 Student  at **[ITC](https://itc.edu.vn)**
+
+✨ _special_ ✨ 
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+### Recent notes 📝
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jensen-thh&show_icons=true&count_private=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensen-thh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
