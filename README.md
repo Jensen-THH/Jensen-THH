@@ -3,17 +3,17 @@
 <h3 align="center">:></h3>
 
 <br />
-### I am 🎓 Student  at ITC
+I am 🎓 Student  at ITC
 
 <br>
-### Tools:
+<h2>Tool: </h2>
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
 <br />
-### Databases:
+<h2>Databases: </h2>
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" /> 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <br />
-### 📺 YouTube
+<h2>📺 YouTube </h2>
 [ I LOVE RAP ](https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA)
 <br />
 
