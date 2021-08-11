@@ -8,15 +8,14 @@
 <br>
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
-<br>
+<br />
 ### Databases:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" /> 
-  
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
-<br>
+<br />
 ### 📺 YouTube
 [ I LOVE RAP ](https://www.youtube.com/channel/UC8Ri0BKS2Vyu41lLqNLMRSA)
-<br>
+<br />
 
 ### Recent notes 📝
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jensen-thh&layout=compact)
