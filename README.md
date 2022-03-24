@@ -8,7 +8,14 @@
 I am Jsthh
 </p>
 <br>
-
+<hr />
+<h2 align="center">📈 Github Contributions</h2>
+<p align="center">
+<a href="https://github.com/Jensen-THH">
+  <img height="100" align="center" src="https://raw.githubusercontent.com/Jensen-THH/Jensen-THH/main/github-contribution-grid-snake.svg" />
+</a>
+ </p>
+ <hr />
 <br />
 
 ### Recent notes 📝
